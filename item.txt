@@ -1,0 +1,1 @@
+worldlist -> firdworld-> item manager ->$b -> _entries (each entries has a value) inside those val is names and etc
